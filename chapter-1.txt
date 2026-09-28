@@ -1,0 +1,8 @@
+basic introduction to computers 
+and their impact in our lives
+
+types of comuters 
+- pc
+- embedded
+- supar computers 
+- quantum computers
