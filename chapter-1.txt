@@ -6,3 +6,5 @@ types of comuters
 - embedded
 - supar computers 
 - quantum computers
+
+juicer is not a computer 

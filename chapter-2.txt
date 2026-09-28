@@ -1,0 +1,12 @@
+Software vs Hardwar
+
+We learnt about software and hardware components 
+of a computers
+- SSD
+- RAM
+- CPU 
+- GPU
+- mother board
+- socket 
+- USB 
+- 10 hield 
