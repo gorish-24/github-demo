@@ -1,11 +1,11 @@
 CLI
 
 navigate computer with terminal
-cd 
+cd
 mkdir
 echo
 rmdir
 rm -r 
 cp 
 mv 
-lolcat
+lolcar

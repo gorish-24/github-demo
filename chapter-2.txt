@@ -8,5 +8,5 @@ of a computers
 - GPU
 - mother board
 - socket 
-- USB 
+- USb
 - 10 hield 
