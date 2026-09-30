@@ -7,4 +7,4 @@ types of comuters
 - supar computers 
 - quantum computers
 
-juicer is not a computeR
+juicer is not a computer
